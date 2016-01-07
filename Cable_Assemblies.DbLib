@@ -1,0 +1,39 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Cable_Assemblies.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=Cable_Assemblies.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=Footprints;Symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=FLAT_FLEX_RIBBON_JUMPERS$
+[Table1]
+SchemaName=
+TableName=FLAT_FLEX_RIBBON_JUMPERS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Datasheets0=293|Library Ref0=78|Footprint Ref0=135|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=93|Description0=194|Series0=53|Cable Type0=78|Number of Conductors0=141|Pitch0=87|Length0=93|Length - Exposed Ends0=140|Termination Style0=318
+[FieldMap1]
+Options=FieldName=FLAT_FLEX_RIBBON_JUMPERS$.Library Ref|TableNameOnly=FLAT_FLEX_RIBBON_JUMPERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=FLAT_FLEX_RIBBON_JUMPERS$.Footprint Ref|TableNameOnly=FLAT_FLEX_RIBBON_JUMPERS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=FLAT_FLEX_RIBBON_JUMPERS$.PartNumber|TableNameOnly=FLAT_FLEX_RIBBON_JUMPERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=FLAT_FLEX_RIBBON_JUMPERS$.Description|TableNameOnly=FLAT_FLEX_RIBBON_JUMPERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

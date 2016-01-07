@@ -1,0 +1,39 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Optoelectronics.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=Optoelectronics.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=C:\Users\jefff\Google Drive\Libraries\Footprints;C:\Users\jefff\Google Drive\Libraries\Symbols;Footprints;Symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=LED_DISCRETE$
+[Table1]
+SchemaName=
+TableName=LED_DISCRETE$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=90|Footprint Ref0=92|PartNumber0=84|Description0=201|Datasheets0=636|Supplier 10=75|Supplier Part Number 10=189|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=93|Series0=53|Color0=125|Wavelength - Dominant0=146|Wavelength - Peak0=122|Millicandela Rating0=226|Voltage - Forward (Vf) (Typ)0=162|Current - Test0=92|Viewing Angle0=98|Lens Type0=89|Lens Style/Size0=212|Package / Case0=100|Size / Dimension0=119|Height0=58|Mounting Type0=101|F260=41
+[FieldMap1]
+Options=FieldName=LED_DISCRETE$.Library Ref|TableNameOnly=LED_DISCRETE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=LED_DISCRETE$.Footprint Ref|TableNameOnly=LED_DISCRETE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=LED_DISCRETE$.PartNumber|TableNameOnly=LED_DISCRETE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=LED_DISCRETE$.Description|TableNameOnly=LED_DISCRETE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

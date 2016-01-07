@@ -1,0 +1,39 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Switches.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=Switches.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=Footprints;Symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Toggle$
+[Table1]
+SchemaName=
+TableName=Toggle$
+Enabled=True
+UserWhere=0
+UserWhereText=[PartNumber] = '{PartNumber}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=142|Footprint Ref0=158|PartNumber0=107|Description0=164|HelpURL0=228|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=93|Series0=53|Circuit0=56|Switch Function0=106|Current Rating0=99|Voltage Rating - AC0=124|Voltage Rating - DC0=125|Actuator Type0=93|Actuator Length0=106|Illumination0=92|Illumination Type, Color0=145|Illumination Voltage (Nominal)0=180|Mounting Type0=101|Panel Cutout Dimensions0=153|Termination Style0=111|Bushing Thread0=104|Ingress Protection0=116|Features0=126|F290=41
+[FieldMap1]
+Options=FieldName=Toggle$.Library Ref|TableNameOnly=Toggle$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Toggle$.Footprint Ref|TableNameOnly=Toggle$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Toggle$.PartNumber|TableNameOnly=Toggle$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Toggle$.Description|TableNameOnly=Toggle$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

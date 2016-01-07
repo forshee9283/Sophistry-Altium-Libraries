@@ -1,0 +1,123 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Connectors.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=Connectors.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=Footprints;Symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=CARD_EDGE$
+[Table1]
+SchemaName=
+TableName=AUDIO_CONNECTORS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=CARD_EDGE$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=149|PartNumber0=170|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=387|Image0=396|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=151|Description0=192|Quantity Available0=117|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=119|Packaging0=76|Series0=53|Card Type0=74|Gender0=61|Number of Positions/Bay/Row0=177|Number of Positions0=128|Card Thickness0=99|Number of Rows0=109|Pitch0=87|Features0=184|Mounting Type0=155|Termination0=84|Contact Material0=108|Contact Finish0=97|Contact Finish Thickness0=149|Contact Type0=89|Color0=51|Flange Feature0=100|Operating Temperature0=143
+[Table3]
+SchemaName=
+TableName=CIRCULAR_CONNECTORS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=HEADERS_FEMALE_SOCKETS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=HEADERS_MALE_PINS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=MODULAR_JACKS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=QUICK_CONNECTS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=AUDIO_CONNECTORS$.Library Ref|TableNameOnly=AUDIO_CONNECTORS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=AUDIO_CONNECTORS$.Footprint Ref|TableNameOnly=AUDIO_CONNECTORS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=AUDIO_CONNECTORS$.PartNumber|TableNameOnly=AUDIO_CONNECTORS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=AUDIO_CONNECTORS$.Description|TableNameOnly=AUDIO_CONNECTORS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=CARD_EDGE$.Library Ref|TableNameOnly=CARD_EDGE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=CARD_EDGE$.Footprint Ref|TableNameOnly=CARD_EDGE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=CARD_EDGE$.PartNumber|TableNameOnly=CARD_EDGE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=CARD_EDGE$.Description|TableNameOnly=CARD_EDGE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=CIRCULAR_CONNECTORS$.Library Ref|TableNameOnly=CIRCULAR_CONNECTORS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=CIRCULAR_CONNECTORS$.Footprint Ref|TableNameOnly=CIRCULAR_CONNECTORS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=CIRCULAR_CONNECTORS$.PartNumber|TableNameOnly=CIRCULAR_CONNECTORS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=CIRCULAR_CONNECTORS$.Description|TableNameOnly=CIRCULAR_CONNECTORS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=HEADERS_FEMALE_SOCKETS$.Library Ref|TableNameOnly=HEADERS_FEMALE_SOCKETS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=HEADERS_FEMALE_SOCKETS$.Footprint Ref|TableNameOnly=HEADERS_FEMALE_SOCKETS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=HEADERS_FEMALE_SOCKETS$.PartNumber|TableNameOnly=HEADERS_FEMALE_SOCKETS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=HEADERS_FEMALE_SOCKETS$.Description|TableNameOnly=HEADERS_FEMALE_SOCKETS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=HEADERS_MALE_PINS$.Library Ref|TableNameOnly=HEADERS_MALE_PINS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=HEADERS_MALE_PINS$.Footprint Ref|TableNameOnly=HEADERS_MALE_PINS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=HEADERS_MALE_PINS$.PartNumber|TableNameOnly=HEADERS_MALE_PINS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=HEADERS_MALE_PINS$.Description|TableNameOnly=HEADERS_MALE_PINS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=MODULAR_JACKS$.Library Ref|TableNameOnly=MODULAR_JACKS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=MODULAR_JACKS$.Footprint Ref|TableNameOnly=MODULAR_JACKS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=MODULAR_JACKS$.PartNumber|TableNameOnly=MODULAR_JACKS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=MODULAR_JACKS$.Description|TableNameOnly=MODULAR_JACKS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=QUICK_CONNECTS$.Library Ref|TableNameOnly=QUICK_CONNECTS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=QUICK_CONNECTS$.Footprint Ref|TableNameOnly=QUICK_CONNECTS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=QUICK_CONNECTS$.PartNumber|TableNameOnly=QUICK_CONNECTS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=QUICK_CONNECTS$.Description|TableNameOnly=QUICK_CONNECTS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

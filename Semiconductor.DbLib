@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Semiconductor.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Sophistry\Libraries\trunk\Semiconductor.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=C:\Users\jefff\Google Drive\Libraries\Footprints;Symbols;Footp
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=JFET$
+LastFocusedTable=DIODES_RECTIFIERS_SINGLE_TH$
 [Table1]
 SchemaName=
 TableName=BJT$
@@ -38,21 +38,39 @@ TableName=DIODES_RECTIFIERS_ARRAYS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=105|Footprint Ref0=92|Description0=191|PartNumber0=84|Datasheets0=485|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=317|Series0=53|Diode Configuration0=132|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io) (per Diode)0=240|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=205|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Mounting Type0=101|Package / Case0=141|Supplier Device Package0=147
 [Table4]
 SchemaName=
 TableName=DIODES_RECTIFIERS_SINGLE$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=98|Footprint Ref0=92|PartNumber0=84|Description0=206|Datasheets0=457|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=227|Series0=53|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=205|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|Operating Temperature - Junction0=197
 [Table5]
 SchemaName=
-TableName=JFET$
+TableName=DIODES_RECTIFIERS_SINGLE_TH$
 Enabled=True
 UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Datasheets0=357|Library Ref0=77|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=132|Description0=158|Series0=53|FET Type0=66|Voltage - Breakdown (V(BR)GSS)0=188|Drain to Source Voltage (Vdss)0=179|Current - Drain (Idss) @ Vds (Vgs=0)0=207|Current Drain (Id) - Max0=143|Voltage - Cutoff (VGS off) @ Id0=181|Input Capacitance (Ciss) @ Vds0=181|Resistance - RDS(On)0=130|Mounting Type0=101|Package / Case0=141|Supplier Device Package0=147|Power - Max0=86
+BrowserOrder_Visible=PartNumber0=84|Library Ref0=77|Footprint Ref0=92|Image0=389|Description0=195|Quantity Available0=117|Factory Stock0=91|@ qty0=53|Minimum Quantity0=119|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=295|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=132|Unit Price (USD)0=103|Series0=53|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=205|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=131|Supplier Device Package0=147|Operating Temperature - Junction0=197
+[Table6]
+SchemaName=
+TableName=FET_SINGLE$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=JFET$
+Enabled=True
+UserWhere=0
+UserWhereText=
 [FieldMap1]
 Options=FieldName=BJT$.Library Ref|TableNameOnly=BJT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -86,10 +104,38 @@ Options=FieldName=DIODES_RECTIFIERS_SINGLE$.PartNumber|TableNameOnly=DIODES_RECT
 [FieldMap16]
 Options=FieldName=DIODES_RECTIFIERS_SINGLE$.Description|TableNameOnly=DIODES_RECTIFIERS_SINGLE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=JFET$.Library Ref|TableNameOnly=JFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.PartNumber|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=JFET$.Footprint Ref|TableNameOnly=JFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Library Ref|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=JFET$.PartNumber|TableNameOnly=JFET$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Footprint Ref|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Image|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap21]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Description|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Quantity Available|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap23]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Factory Stock|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap24]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.@ qty|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap25]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Minimum Quantity|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap26]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Packaging|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap27]
+Options=FieldName=DIODES_RECTIFIERS_SINGLE_TH$.Unit Price (USD)|TableNameOnly=DIODES_RECTIFIERS_SINGLE_TH$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap28]
+Options=FieldName=FET_SINGLE$.Library Ref|TableNameOnly=FET_SINGLE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=FET_SINGLE$.Footprint Ref|TableNameOnly=FET_SINGLE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=FET_SINGLE$.Description|TableNameOnly=FET_SINGLE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=JFET$.Library Ref|TableNameOnly=JFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=JFET$.Footprint Ref|TableNameOnly=JFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=JFET$.PartNumber|TableNameOnly=JFET$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
 Options=FieldName=JFET$.Description|TableNameOnly=JFET$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

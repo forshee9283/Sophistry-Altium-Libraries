@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Connectors.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Sophistry\Libraries\trunk\Connectors.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=Footprints;Symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=CARD_EDGE$
+LastFocusedTable=USB_HDMI$
 [Table1]
 SchemaName=
 TableName=AUDIO_CONNECTORS$
@@ -32,9 +32,6 @@ TableName=CARD_EDGE$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=149|PartNumber0=170|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=387|Image0=396|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=151|Description0=192|Quantity Available0=117|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=119|Packaging0=76|Series0=53|Card Type0=74|Gender0=61|Number of Positions/Bay/Row0=177|Number of Positions0=128|Card Thickness0=99|Number of Rows0=109|Pitch0=87|Features0=184|Mounting Type0=155|Termination0=84|Contact Material0=108|Contact Finish0=97|Contact Finish Thickness0=149|Contact Type0=89|Color0=51|Flange Feature0=100|Operating Temperature0=143
 [Table3]
 SchemaName=
 TableName=CIRCULAR_CONNECTORS$
@@ -65,6 +62,21 @@ TableName=QUICK_CONNECTS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table8]
+SchemaName=
+TableName=SPRING_PRESSURE$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=USB_HDMI$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=159|Footprint Ref0=159|PartNumber0=95|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=353|Image0=340|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=93|Description0=192|Quantity Available0=117|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=119|Packaging0=76|Series0=53|Connector Type0=103|Number of Contacts0=126|Gender0=63|Specifications0=94|Mounting Type0=211|Features0=146|Ingress Protection0=116
 [FieldMap1]
 Options=FieldName=AUDIO_CONNECTORS$.Library Ref|TableNameOnly=AUDIO_CONNECTORS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -121,3 +133,45 @@ Options=FieldName=QUICK_CONNECTS$.Footprint Ref|TableNameOnly=QUICK_CONNECTS$|Fi
 Options=FieldName=QUICK_CONNECTS$.PartNumber|TableNameOnly=QUICK_CONNECTS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
 Options=FieldName=QUICK_CONNECTS$.Description|TableNameOnly=QUICK_CONNECTS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=SPRING_PRESSURE$.Library Ref|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=SPRING_PRESSURE$.Footprint Ref|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=SPRING_PRESSURE$.PartNumber|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=SPRING_PRESSURE$.Image|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap33]
+Options=FieldName=SPRING_PRESSURE$.Description|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=SPRING_PRESSURE$.Quantity Available|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap35]
+Options=FieldName=SPRING_PRESSURE$.Factory Stock|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap36]
+Options=FieldName=SPRING_PRESSURE$.Unit Price (USD)|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap37]
+Options=FieldName=SPRING_PRESSURE$.@ qty|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap38]
+Options=FieldName=SPRING_PRESSURE$.Minimum Quantity|TableNameOnly=SPRING_PRESSURE$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap39]
+Options=FieldName=USB_HDMI$.Library Ref|TableNameOnly=USB_HDMI$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=USB_HDMI$.Footprint Ref|TableNameOnly=USB_HDMI$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=USB_HDMI$.PartNumber|TableNameOnly=USB_HDMI$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=USB_HDMI$.Image|TableNameOnly=USB_HDMI$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap43]
+Options=FieldName=USB_HDMI$.Description|TableNameOnly=USB_HDMI$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=USB_HDMI$.Quantity Available|TableNameOnly=USB_HDMI$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap45]
+Options=FieldName=USB_HDMI$.Factory Stock|TableNameOnly=USB_HDMI$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap46]
+Options=FieldName=USB_HDMI$.Unit Price (USD)|TableNameOnly=USB_HDMI$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap47]
+Options=FieldName=USB_HDMI$.@ qty|TableNameOnly=USB_HDMI$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap48]
+Options=FieldName=USB_HDMI$.Minimum Quantity|TableNameOnly=USB_HDMI$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap49]
+Options=FieldName=USB_HDMI$.Packaging|TableNameOnly=USB_HDMI$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1

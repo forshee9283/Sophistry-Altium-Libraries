@@ -19,7 +19,7 @@ LibrarySearchPath=C:\Users\jefff\Google Drive\Libraries\Footprints;Symbols;Footp
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=DIODES_TVS$
+LastFocusedTable=FET_SINGLE$
 [Table1]
 SchemaName=
 TableName=BJT$
@@ -56,9 +56,6 @@ TableName=DIODES_TVS$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=PartNumber0=84|Library Ref0=88|Footprint Ref0=92|Description0=92|@ qty0=53|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=247|Image0=373|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=99|Quantity Available0=117|Factory Stock0=91|Unit Price (USD)0=103|Minimum Quantity0=119|Packaging0=76|Series0=53|Type0=115|Unidirectional Channels0=147|Bidirectional Channels0=139|Voltage - Reverse Standoff (Typ)0=186|Voltage - Breakdown (Min)0=161|Voltage - Clamping (Max) @ Ipp0=186|Current - Peak Pulse (10/1000µs)0=187|Power - Peak Pulse0=119|Power Line Protection0=135|Applications0=93|Capacitance @ Frequency0=155|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147
 [Table7]
 SchemaName=
 TableName=FET_SINGLE$
@@ -157,10 +154,24 @@ Options=FieldName=FET_SINGLE$.Footprint Ref|TableNameOnly=FET_SINGLE$|FieldNameO
 [FieldMap41]
 Options=FieldName=FET_SINGLE$.Description|TableNameOnly=FET_SINGLE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=JFET$.Library Ref|TableNameOnly=JFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FET_SINGLE$.PartNumber|TableNameOnly=FET_SINGLE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=JFET$.Footprint Ref|TableNameOnly=JFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FET_SINGLE$.Image|TableNameOnly=FET_SINGLE$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
 [FieldMap44]
-Options=FieldName=JFET$.PartNumber|TableNameOnly=JFET$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FET_SINGLE$.Quantity Available|TableNameOnly=FET_SINGLE$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
 [FieldMap45]
+Options=FieldName=FET_SINGLE$.Factory Stock|TableNameOnly=FET_SINGLE$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap46]
+Options=FieldName=FET_SINGLE$.Unit Price (USD)|TableNameOnly=FET_SINGLE$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap47]
+Options=FieldName=FET_SINGLE$.Minimum Quantity|TableNameOnly=FET_SINGLE$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap48]
+Options=FieldName=FET_SINGLE$.Packaging|TableNameOnly=FET_SINGLE$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap49]
+Options=FieldName=JFET$.Library Ref|TableNameOnly=JFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=JFET$.Footprint Ref|TableNameOnly=JFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=JFET$.PartNumber|TableNameOnly=JFET$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
 Options=FieldName=JFET$.Description|TableNameOnly=JFET$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

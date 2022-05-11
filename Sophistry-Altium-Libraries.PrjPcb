@@ -1715,7 +1715,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QJRXFRVX
 
 [Document99]
-DocumentPath=Symbols\Switchcraft_112A.SchLib
+DocumentPath=Symbols\PJ301M-12.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1729,7 +1729,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VEWGLTJF
+DocumentUniqueId=MEPYZKDY
 
 [Document100]
 DocumentPath=Symbols\Pi_Zero_Assembly.SchLib
@@ -1763,10 +1763,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CZEZJTJE
+DocumentUniqueId=SKHIMUSX
 
 [Document102]
-DocumentPath=Symbols\Switchcraft_112B.SchLib
+DocumentPath=Symbols\PJ366ST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1780,7 +1780,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CZQGYJPG
+DocumentUniqueId=YDQSQILQ
 
 [Document103]
 DocumentPath=Symbols\SWITCH_DPDT.SchLib
@@ -4619,7 +4619,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EHJJQFVK
 
 [Document270]
 DocumentPath=Footprints\PJ366ST.PcbLib
@@ -4636,7 +4636,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TCXKGNSW
 
 [Document271]
 DocumentPath=Footprints\PRECI-DIP_90224-AS.PcbLib
@@ -4857,7 +4857,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YSOPRDVF
 
 [Document284]
 DocumentPath=Footprints\SULLINS_GWE32DHRN-T9410.PcbLib
@@ -4908,7 +4908,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HACAIYGT
 
 [Document287]
 DocumentPath=Footprints\Switchcraft_113B_RND.PcbLib
@@ -6241,6 +6241,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

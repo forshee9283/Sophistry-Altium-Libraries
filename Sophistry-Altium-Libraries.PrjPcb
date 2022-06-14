@@ -1049,7 +1049,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NLNJNIZR
+DocumentUniqueId=OKISNFQP
 
 [Document60]
 DocumentPath=Symbols\HEADER_2x9.SchLib
@@ -4772,7 +4772,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EHJJQFVK
+DocumentUniqueId=SMRNPEYQ
 
 [Document279]
 DocumentPath=Footprints\PJ366ST.PcbLib
@@ -5248,7 +5248,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SHHUSBIG
 
 [Document307]
 DocumentPath=Footprints\TE_3-644456-7.PcbLib
@@ -5438,6 +5438,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document318]
+DocumentPath=Footprints\ADAM_TECH_PH2-12-UA.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KEYQATJM
+
+[Document319]
 DocumentPath=Footprints\TE_6-534998-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5454,7 +5471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document319]
+[Document320]
 DocumentPath=Footprints\TE_6-534998-5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5471,7 +5488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document320]
+[Document321]
 DocumentPath=Footprints\TE_6-534998-7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5488,7 +5505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document321]
+[Document322]
 DocumentPath=Footprints\TE_6-534998-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5505,7 +5522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document322]
+[Document323]
 DocumentPath=Footprints\TE_7-534998-0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5522,7 +5539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document323]
+[Document324]
 DocumentPath=Footprints\TE_7-534998-5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5539,7 +5556,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document324]
+[Document325]
 DocumentPath=Footprints\TE_8-534998-0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5556,7 +5573,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document325]
+[Document326]
 DocumentPath=Footprints\TE_640445-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5573,7 +5590,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document326]
+[Document327]
 DocumentPath=Footprints\TE_640445-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5590,7 +5607,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document327]
+[Document328]
 DocumentPath=Footprints\TE_1217861-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5607,7 +5624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document328]
+[Document329]
 DocumentPath=Footprints\TI_16-VFQFN_EXPOSED_PAD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5624,7 +5641,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document329]
+[Document330]
 DocumentPath=Footprints\TO-92.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5641,7 +5658,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document330]
+[Document331]
 DocumentPath=Footprints\Vishay_IHLP-2525CZ-01.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5658,7 +5675,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document331]
+[Document332]
 DocumentPath=Footprints\XTAL_2.5x2.0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5675,7 +5692,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document332]
+[Document333]
 DocumentPath=Footprints\XTAL_5x3.2-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5692,7 +5709,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document333]
+[Document334]
 DocumentPath=Footprints\XTAL_5x3.2-6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5709,7 +5726,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document334]
+[Document335]
 DocumentPath=Cable_Assemblies.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5726,7 +5743,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document335]
+[Document336]
 DocumentPath=Connectors.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5743,7 +5760,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document336]
+[Document337]
 DocumentPath=Crystals_Oscillators.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5760,7 +5777,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document337]
+[Document338]
 DocumentPath=ICs.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5777,7 +5794,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document338]
+[Document339]
 DocumentPath=Optoelectronics.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5794,7 +5811,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document339]
+[Document340]
 DocumentPath=Passives.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5811,7 +5828,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document340]
+[Document341]
 DocumentPath=Semiconductor.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5828,7 +5845,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document341]
+[Document342]
 DocumentPath=Switches.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5845,7 +5862,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document342]
+[Document343]
 DocumentPath=Symbols\MECH_NO_BOM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5862,7 +5879,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBPPNVDN
 
-[Document343]
+[Document344]
 DocumentPath=Symbols\MECH_1PIN_NO_BOM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5879,7 +5896,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPHFXPGC
 
-[Document344]
+[Document345]
 DocumentPath=Mechanical.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5896,7 +5913,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document345]
+[Document346]
 DocumentPath=Mechanical.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -5912,6 +5929,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document347]
+DocumentPath=Symbols\HEADER_2x6_ALT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NUMIXOFG
 
 [Configuration1]
 Name=Sources

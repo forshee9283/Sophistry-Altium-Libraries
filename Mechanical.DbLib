@@ -19,31 +19,37 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Screws_Bolts$
+LastFocusedTable=Mounting_Brackets$
 [Table1]
 SchemaName=
 TableName=Board_Features$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=169|PartNumber0=169|Description0=169|HelpURL0=67|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=169|Manufacturer0=93|F120=41|F130=41|F140=41|F150=41|F160=41|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41
 [Table2]
+SchemaName=
+TableName=Mounting_Brackets$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=HelpURL0=282|Library Ref0=77|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=112|Description0=204
+[Table3]
 SchemaName=
 TableName=Screws_Bolts$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=HelpURL0=67|Library Ref0=78|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=93|Description0=229
-[Table3]
+[Table4]
 SchemaName=
 TableName=Spacers_Standoffs$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=HelpURL0=374|Library Ref0=78|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=96|Description0=194
 [FieldMap1]
 Options=FieldName=Board_Features$.Library Ref|TableNameOnly=Board_Features$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -53,18 +59,26 @@ Options=FieldName=Board_Features$.PartNumber|TableNameOnly=Board_Features$|Field
 [FieldMap4]
 Options=FieldName=Board_Features$.Description|TableNameOnly=Board_Features$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Screws_Bolts$.Library Ref|TableNameOnly=Screws_Bolts$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mounting_Brackets$.Library Ref|TableNameOnly=Mounting_Brackets$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=Screws_Bolts$.Footprint Ref|TableNameOnly=Screws_Bolts$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mounting_Brackets$.Footprint Ref|TableNameOnly=Mounting_Brackets$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=Screws_Bolts$.PartNumber|TableNameOnly=Screws_Bolts$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mounting_Brackets$.PartNumber|TableNameOnly=Mounting_Brackets$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=Screws_Bolts$.Description|TableNameOnly=Screws_Bolts$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mounting_Brackets$.Description|TableNameOnly=Mounting_Brackets$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=Spacers_Standoffs$.Library Ref|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Screws_Bolts$.Library Ref|TableNameOnly=Screws_Bolts$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=Spacers_Standoffs$.Footprint Ref|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Screws_Bolts$.Footprint Ref|TableNameOnly=Screws_Bolts$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Spacers_Standoffs$.PartNumber|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Screws_Bolts$.PartNumber|TableNameOnly=Screws_Bolts$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
+Options=FieldName=Screws_Bolts$.Description|TableNameOnly=Screws_Bolts$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Spacers_Standoffs$.Library Ref|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Spacers_Standoffs$.Footprint Ref|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Spacers_Standoffs$.PartNumber|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
 Options=FieldName=Spacers_Standoffs$.Description|TableNameOnly=Spacers_Standoffs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

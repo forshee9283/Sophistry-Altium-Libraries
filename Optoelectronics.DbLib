@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Google Drive\Libraries\Optoelectronics.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\jeffr\Desktop\Sophistry\Sophistry-Altium-Libraries\Optoelectronics.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,16 +19,22 @@ LibrarySearchPath=C:\Users\jefff\Google Drive\Libraries\Footprints;C:\Users\jeff
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=LED_DISCRETE$
+LastFocusedTable=LED_Specialty$
 [Table1]
 SchemaName=
 TableName=LED_DISCRETE$
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table2]
+SchemaName=
+TableName=LED_Specialty$
+Enabled=True
+UserWhere=0
+UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=90|Footprint Ref0=92|PartNumber0=84|Description0=201|Datasheets0=636|Supplier 10=75|Supplier Part Number 10=189|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=93|Series0=53|Color0=125|Wavelength - Dominant0=146|Wavelength - Peak0=122|Millicandela Rating0=226|Voltage - Forward (Vf) (Typ)0=162|Current - Test0=92|Viewing Angle0=98|Lens Type0=89|Lens Style/Size0=212|Package / Case0=100|Size / Dimension0=119|Height0=58|Mounting Type0=101|F260=41
+BrowserOrder_Visible=Datasheets0=531|Library Ref0=78|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=124|Description0=117
 [FieldMap1]
 Options=FieldName=LED_DISCRETE$.Library Ref|TableNameOnly=LED_DISCRETE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -37,3 +43,11 @@ Options=FieldName=LED_DISCRETE$.Footprint Ref|TableNameOnly=LED_DISCRETE$|FieldN
 Options=FieldName=LED_DISCRETE$.PartNumber|TableNameOnly=LED_DISCRETE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
 Options=FieldName=LED_DISCRETE$.Description|TableNameOnly=LED_DISCRETE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=LED_Specialty$.Library Ref|TableNameOnly=LED_Specialty$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=LED_Specialty$.Footprint Ref|TableNameOnly=LED_Specialty$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=LED_Specialty$.PartNumber|TableNameOnly=LED_Specialty$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=LED_Specialty$.Description|TableNameOnly=LED_Specialty$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

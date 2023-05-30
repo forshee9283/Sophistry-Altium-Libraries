@@ -6934,6 +6934,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JAXCMHGV
 
 [Document406]
+DocumentPath=Symbols\MICROCHIP_MTCH102-I.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAVMWEWR
+
+[Document407]
 DocumentPath=Symbols\WAVESHARE_RP2040-Zero.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -6950,7 +6967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDOJUSLQ
 
-[Document407]
+[Document408]
 DocumentPath=Footprints\JLC_NUMBER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -6966,6 +6983,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XARBQBNL
+
+[Document409]
+DocumentPath=Footprints\JST_S4B-PH-K-S.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XTLDIYEK
 
 [Configuration1]
 Name=Sources

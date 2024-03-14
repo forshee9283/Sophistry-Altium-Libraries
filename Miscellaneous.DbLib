@@ -26,6 +26,18 @@ TableName=ENCODERS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=151|Footprint Ref0=139|PartNumber0=114|Description0=208|Datasheets0=333|Supplier 10=75|Supplier 20=75|Supplier Part Number 10=142|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=93|F120=41|F130=41|F140=41|F150=41|F160=41|F170=41|F180=41
+[Table2]
+SchemaName=
+TableName=PIEZO$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Datasheets0=503|Library Ref0=77|Footprint Ref0=92|Supplier 10=75|Supplier 20=75|Supplier Part Number 10=142|Supplier Part Number 20=142|PartNumber0=84|Manufacturer Part Number0=160|Manufacturer0=103|Description0=193
 [FieldMap1]
 Options=FieldName=ENCODERS$.Library Ref|TableNameOnly=ENCODERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -34,3 +46,11 @@ Options=FieldName=ENCODERS$.Footprint Ref|TableNameOnly=ENCODERS$|FieldNameOnly=
 Options=FieldName=ENCODERS$.PartNumber|TableNameOnly=ENCODERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
 Options=FieldName=ENCODERS$.Description|TableNameOnly=ENCODERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=PIEZO$.Library Ref|TableNameOnly=PIEZO$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=PIEZO$.Footprint Ref|TableNameOnly=PIEZO$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=PIEZO$.PartNumber|TableNameOnly=PIEZO$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=PIEZO$.Description|TableNameOnly=PIEZO$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

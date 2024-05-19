@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Sophistry\Libraries\trunk\Passives.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\jeffr\Desktop\Sophistry\Sophistry-Altium-Libraries\Passives.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=Footprints;Symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=FIXED_INDUCTORS$
+LastFocusedTable=FUSES$
 [Table1]
 SchemaName=
 TableName=CAP_ALU_SMD$
@@ -68,58 +68,64 @@ TableName=FIXED_INDUCTORS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table9]
+SchemaName=
+TableName=FUSES$
+Enabled=True
+UserWhere=0
+UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=82|Footprint Ref0=125|PartNumber0=121|Description0=221|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=444|Image0=347|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=176|Quantity Available0=117|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=119|Packaging0=76|Series0=87|Type0=69|Material - Core0=99|Inductance0=80|Tolerance0=72|Current Rating0=99|Current - Saturation0=126|Shielding0=72|DC Resistance (DCR)0=126|Q @ Freq0=81|Frequency - Self Resonant0=157|Ratings0=62|Operating Temperature0=143|Frequency - Test0=106|Mounting Type0=101|Package / Case0=99|Size / Dimension0=213|Height - Seated (Max)0=133
-[Table9]
+BrowserOrder_Visible=HelpURL0=453|Library Ref0=77|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|PartNumber0=85|Manufacturer Part Number0=160|Manufacturer0=93|Description0=177|Current - Hold0=97
+[Table10]
 SchemaName=
 TableName=IND_ARRAYS_SIGNAL_XFORMERS$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table10]
+[Table11]
 SchemaName=
 TableName=RES_0402$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table11]
+[Table12]
 SchemaName=
 TableName=RES_0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table12]
+[Table13]
 SchemaName=
 TableName=RES_0805$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table13]
+[Table14]
 SchemaName=
 TableName=RES_1206$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table14]
+[Table15]
 SchemaName=
 TableName=RES_SPECIALIZED$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table15]
+[Table16]
 SchemaName=
 TableName=RES_THQW$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table16]
+[Table17]
 SchemaName=
 TableName=ROTARY_POTS$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table17]
+[Table18]
 SchemaName=
 TableName=TRIMMER$
 Enabled=True
@@ -246,74 +252,82 @@ Options=FieldName=FIXED_INDUCTORS$.Minimum Quantity|TableNameOnly=FIXED_INDUCTOR
 [FieldMap60]
 Options=FieldName=FIXED_INDUCTORS$.Packaging|TableNameOnly=FIXED_INDUCTORS$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
 [FieldMap61]
-Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.Library Ref|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FUSES$.Library Ref|TableNameOnly=FUSES$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap62]
-Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.Footprint Ref|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FUSES$.Footprint Ref|TableNameOnly=FUSES$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap63]
-Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.PartNumber|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FUSES$.PartNumber|TableNameOnly=FUSES$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap64]
-Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.Description|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=FUSES$.Description|TableNameOnly=FUSES$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap65]
-Options=FieldName=RES_0402$.Library Ref|TableNameOnly=RES_0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.Library Ref|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap66]
-Options=FieldName=RES_0402$.Footprint Ref|TableNameOnly=RES_0402$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.Footprint Ref|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap67]
-Options=FieldName=RES_0402$.Description|TableNameOnly=RES_0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.PartNumber|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap68]
-Options=FieldName=RES_0402$.PartNumber|TableNameOnly=RES_0402$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=IND_ARRAYS_SIGNAL_XFORMERS$.Description|TableNameOnly=IND_ARRAYS_SIGNAL_XFORMERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap69]
-Options=FieldName=RES_0603$.Library Ref|TableNameOnly=RES_0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0402$.Library Ref|TableNameOnly=RES_0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap70]
-Options=FieldName=RES_0603$.Footprint Ref|TableNameOnly=RES_0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0402$.Footprint Ref|TableNameOnly=RES_0402$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap71]
-Options=FieldName=RES_0603$.Description|TableNameOnly=RES_0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0402$.Description|TableNameOnly=RES_0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap72]
-Options=FieldName=RES_0603$.PartNumber|TableNameOnly=RES_0603$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0402$.PartNumber|TableNameOnly=RES_0402$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=RES_0805$.Library Ref|TableNameOnly=RES_0805$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0603$.Library Ref|TableNameOnly=RES_0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=RES_0805$.Footprint Ref|TableNameOnly=RES_0805$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0603$.Footprint Ref|TableNameOnly=RES_0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap75]
-Options=FieldName=RES_0805$.Description|TableNameOnly=RES_0805$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0603$.Description|TableNameOnly=RES_0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap76]
-Options=FieldName=RES_0805$.PartNumber|TableNameOnly=RES_0805$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0603$.PartNumber|TableNameOnly=RES_0603$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap77]
-Options=FieldName=RES_1206$.Library Ref|TableNameOnly=RES_1206$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0805$.Library Ref|TableNameOnly=RES_0805$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap78]
-Options=FieldName=RES_1206$.Footprint Ref|TableNameOnly=RES_1206$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0805$.Footprint Ref|TableNameOnly=RES_0805$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap79]
-Options=FieldName=RES_1206$.Description|TableNameOnly=RES_1206$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0805$.Description|TableNameOnly=RES_0805$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap80]
-Options=FieldName=RES_1206$.PartNumber|TableNameOnly=RES_1206$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_0805$.PartNumber|TableNameOnly=RES_0805$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap81]
-Options=FieldName=RES_SPECIALIZED$.Library Ref|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_1206$.Library Ref|TableNameOnly=RES_1206$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap82]
-Options=FieldName=RES_SPECIALIZED$.Footprint Ref|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_1206$.Footprint Ref|TableNameOnly=RES_1206$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap83]
-Options=FieldName=RES_SPECIALIZED$.PartNumber|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_1206$.Description|TableNameOnly=RES_1206$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap84]
-Options=FieldName=RES_SPECIALIZED$.Description|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_1206$.PartNumber|TableNameOnly=RES_1206$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap85]
-Options=FieldName=RES_THQW$.Library Ref|TableNameOnly=RES_THQW$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_SPECIALIZED$.Library Ref|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap86]
-Options=FieldName=RES_THQW$.Footprint Ref|TableNameOnly=RES_THQW$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_SPECIALIZED$.Footprint Ref|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap87]
-Options=FieldName=RES_THQW$.Description|TableNameOnly=RES_THQW$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_SPECIALIZED$.PartNumber|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap88]
-Options=FieldName=RES_THQW$.PartNumber|TableNameOnly=RES_THQW$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_SPECIALIZED$.Description|TableNameOnly=RES_SPECIALIZED$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap89]
-Options=FieldName=ROTARY_POTS$.Library Ref|TableNameOnly=ROTARY_POTS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_THQW$.Library Ref|TableNameOnly=RES_THQW$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap90]
-Options=FieldName=ROTARY_POTS$.Footprint Ref|TableNameOnly=ROTARY_POTS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_THQW$.Footprint Ref|TableNameOnly=RES_THQW$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap91]
-Options=FieldName=ROTARY_POTS$.PartNumber|TableNameOnly=ROTARY_POTS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_THQW$.Description|TableNameOnly=RES_THQW$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap92]
-Options=FieldName=ROTARY_POTS$.Description|TableNameOnly=ROTARY_POTS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RES_THQW$.PartNumber|TableNameOnly=RES_THQW$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap93]
-Options=FieldName=TRIMMER$.Library Ref|TableNameOnly=TRIMMER$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ROTARY_POTS$.Library Ref|TableNameOnly=ROTARY_POTS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap94]
-Options=FieldName=TRIMMER$.Footprint Ref|TableNameOnly=TRIMMER$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ROTARY_POTS$.Footprint Ref|TableNameOnly=ROTARY_POTS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap95]
-Options=FieldName=TRIMMER$.PartNumber|TableNameOnly=TRIMMER$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ROTARY_POTS$.PartNumber|TableNameOnly=ROTARY_POTS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap96]
+Options=FieldName=ROTARY_POTS$.Description|TableNameOnly=ROTARY_POTS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=TRIMMER$.Library Ref|TableNameOnly=TRIMMER$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=TRIMMER$.Footprint Ref|TableNameOnly=TRIMMER$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=TRIMMER$.PartNumber|TableNameOnly=TRIMMER$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
 Options=FieldName=TRIMMER$.Description|TableNameOnly=TRIMMER$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

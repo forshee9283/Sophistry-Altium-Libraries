@@ -19,145 +19,214 @@ LibrarySearchPath=Footprints;Symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=ASSEMBLIES$
+LastFocusedTable=SWITCHES_MUX_DEMUX$
 [Table1]
 SchemaName=
 TableName=ASSEMBLIES$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=113|Library Ref0=170|Footprint Ref0=170|HelpURL0=357|Description0=185|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=93
 [Table2]
 SchemaName=
 TableName=BATTERY_CHARGERS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=87|Library Ref0=77|Footprint Ref0=191|Image0=438|Description0=183|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=371|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=100|Series0=53|Battery Chemistry0=111|Number of Cells0=105|Current - Charging0=139|Programmable Features0=144|Fault Protection0=330|Charge Current - Max0=133|Battery Pack Voltage0=127|Voltage - Supply (Max)0=138|Interface0=68|Operating Temperature0=144|Package / Case0=140|Supplier Device Package0=147
 [Table3]
 SchemaName=
 TableName=BUFFERS_REPEATERS_SPLITTERS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Library Ref0=77|Footprint Ref0=92|Image0=444|Description0=190|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=311|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=113|Quantity Available0=116|Series0=53|Type0=88|Applications0=87|Input0=63|Output0=63|Data Rate (Max)0=103|Number of Channels0=129|Delay Time0=78|Signal Conditioning0=127|Capacitance - Input0=123|Voltage - Supply0=108|Current - Supply0=107|Operating Temperature0=144|Package / Case0=218|Supplier Device Package0=147
 [Table4]
 SchemaName=
 TableName=CLOCK_AND_TIMING$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=92|PartNumber0=105|Description0=190|HelpURL0=265|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=100|Series0=53|Type0=181|Count0=55|Frequency0=76|Voltage - Supply0=108|Current - Supply0=107|Operating Temperature0=144|Package / Case0=177|Supplier Device Package0=147|Mounting Type0=102
 [Table5]
 SchemaName=
 TableName=CLOCK_AND_TIMING_TH$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Library Ref0=77|Footprint Ref0=92|Image0=382|Description0=188|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Count0=55|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=230|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=100|Packaging0=76|Series0=53|Type0=181|Frequency0=76|Voltage - Supply0=108|Current - Supply0=107|Operating Temperature0=144|Package / Case0=126|Supplier Device Package0=147|Mounting Type0=102
 [Table6]
 SchemaName=
 TableName=COMPARATORS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=96|Footprint Ref0=92|PartNumber0=84|Description0=203|HelpURL0=235|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=100|Series0=53|Type0=93|Number of Elements0=127|Output Type0=216|Voltage - Supply, Single/Dual (±)0=191|Voltage - Input Offset (Max)0=166|Current - Input Bias (Max)0=153|Current - Output (Typ)0=137|Current - Quiescent (Max)0=153|CMRR, PSRR (Typ)0=113|Propagation Delay (Max)0=148|Hysteresis0=74|Operating Temperature0=144|Package / Case0=169|Mounting Type0=102|Supplier Device Package0=147
 [Table7]
 SchemaName=
 TableName=COMPARATORS_TH$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=96|Footprint Ref0=92|Description0=192|PartNumber0=84|Image0=382|Quantity Available0=116|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=235|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=100|Factory Stock0=91|Series0=53|Type0=66|Number of Elements0=127|Output Type0=179|Voltage - Supply, Single/Dual (±)0=191|Voltage - Input Offset (Max)0=166|Current - Input Bias (Max)0=153|Current - Output (Typ)0=137|Current - Quiescent (Max)0=153|CMRR, PSRR (Typ)0=113|Propagation Delay (Max)0=148|Hysteresis0=74|Operating Temperature0=144|Package / Case0=126|Mounting Type0=102|Supplier Device Package0=147
 [Table8]
 SchemaName=
 TableName=CPLD$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=87|Library Ref0=140|Footprint Ref0=171|Image0=432|Description0=158|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=534|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=93|Packaging0=76|Series0=53|Programmable Type0=133|Delay Time tpd(1) Max0=135|Voltage Supply - Internal0=151|Number of Logic Elements/Blocks0=193|Number of Macrocells0=135|Number of Gates0=110|Number of I/O0=97|Operating Temperature0=144|Mounting Type0=102|Package / Case0=118|Supplier Device Package0=147
 [Table9]
 SchemaName=
 TableName=DC_DC_SWITCHING_REGULATORS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=159|Footprint Ref0=159|PartNumber0=104|Description0=205|HelpURL0=352|Supplier 10=75|Supplier Part Number 10=159|Supplier 20=102|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=121|F120=41|F130=41|F140=41|F150=41|F160=41|F170=41|F180=41
 [Table10]
 SchemaName=
-TableName=HOT_SWAP_CONTROLLERS$
+TableName=HOT_SWAP_IDEAL_DIODE$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=91|Library Ref0=126|Footprint Ref0=92|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=329|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=114|Description0=175
 [Table11]
 SchemaName=
 TableName=INST_AND_OP_AMPS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=85|Footprint Ref0=163|Description0=185|PartNumber0=84|HelpURL0=230|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Manufacturer Part Number0=160|Manufacturer0=100|F120=41|F130=41
 [Table12]
 SchemaName=
 TableName=INST_AND_OP_AMPS_TH$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=81|Footprint Ref0=92|Description0=143|PartNumber0=84|Image0=382|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=232|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=100|Packaging0=76|Series0=53|Amplifier Type0=96|Number of Circuits0=119|Output Type0=88|Slew Rate0=73|Gain Bandwidth Product0=149|-3db Bandwidth0=106|Current - Input Bias0=123|Voltage - Input Offset0=136|Current - Supply0=107|Current - Output / Channel0=163|Voltage - Supply, Single/Dual (±)0=191|Operating Temperature0=144|Mounting Type0=102|Package / Case0=120|Supplier Device Package0=147
 [Table13]
 SchemaName=
 TableName=INTERFACE$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=92|Library Ref0=129|Footprint Ref0=92|Description0=185|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=1698|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=122
 [Table14]
 SchemaName=
 TableName=LED_DRIVERS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=99|Library Ref0=99|Footprint Ref0=176|Description0=199|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=1485|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=188
 [Table15]
 SchemaName=
 TableName=LINEAR_AUDIO_AMPS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=89|Library Ref0=77|Footprint Ref0=92|Description0=217|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=444|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=114
 [Table16]
 SchemaName=
 TableName=LINEAR_REGULATORS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=99|Library Ref0=121|Footprint Ref0=92|Image0=409|Description0=150|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=282|Supplier Part Number 10=143|Manufacturer Part Number0=160|Manufacturer0=114|Series0=53|Regulator Topology0=126|Voltage - Output0=111|Current - Output0=110|Voltage - Dropout (Typical)0=161|Number of Regulators0=137|Voltage - Input0=101|Current - Limit (Min)0=125|Operating Temperature0=144|Mounting Type0=102|Package / Case0=112|Supplier Device Package0=147
 [Table17]
 SchemaName=
 TableName=LOGIC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=92|Manufacturer Part Number0=160|Description0=177|PartNumber0=97|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=263|Supplier Part Number 10=152|Manufacturer0=100
 [Table18]
 SchemaName=
 TableName=LOGIC_BUFF_DRIVE_ETC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Library Ref0=77|Footprint Ref0=92|Image0=414|Description0=168|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=314|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=132|Series0=53|Logic Type0=117|Number of Elements0=127|Number of Bits per Element0=163|Input Type0=78|Output Type0=88|Current - Output High, Low0=165|Voltage - Supply0=108|Operating Temperature0=144|Mounting Type0=102|Package / Case0=135|Supplier Device Package0=147
 [Table19]
 SchemaName=
 TableName=LOGIC_FLIP_FLOPS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=113|Library Ref0=115|Footprint Ref0=92|Description0=180|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=301|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=100
 [Table20]
 SchemaName=
 TableName=LOGIC_TH$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=92|Description0=130|HelpURL0=249|PartNumber0=84|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|Image0=378|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=100|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Series0=53|Logic Type0=77|Number of Circuits0=119|Number of Inputs0=114|Features0=67|Voltage - Supply0=108|Current - Quiescent (Max)0=153|Current - Output High, Low0=165|Logic Level - Low0=109|Logic Level - High0=113|Max Propagation Delay @ V, Max CL0=208|Operating Temperature0=144|Mounting Type0=102|Supplier Device Package0=147|Package / Case0=126
 [Table21]
 SchemaName=
 TableName=LOGIC_TRANSLATORS_LEVEL_SHIFTER$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Library Ref0=77|Footprint Ref0=92|Description0=197|Supplier 10=75|Supplier 20=75|Supplier Part Number 10=142|Supplier Part Number 20=142|HelpURL0=1678|Manufacturer Part Number0=160|Manufacturer0=100
 [Table22]
 SchemaName=
 TableName=MICROCONTROLLERS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=85|Library Ref0=81|Footprint Ref0=92|Image0=361|Description0=175|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=1152|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=165|Series0=69|Core Processor0=116|Core Size0=70|Speed0=55|Connectivity0=115|Peripherals0=80|Number of I/O0=97|Program Memory Size0=133|Program Memory Type0=137|EEPROM Size0=90|RAM Size0=70|Voltage - Supply (Vcc/Vdd)0=159|Data Converters0=118|Oscillator Type0=99|Operating Temperature0=144|Package / Case0=99|Supplier Device Package0=147
 [Table23]
 SchemaName=
 TableName=SWITCHES_MUX_DEMUX$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartNumber0=84|Library Ref0=81|Footprint Ref0=155|Image0=444|Description0=175|Quantity Available0=116|Factory Stock0=91|Unit Price (USD)0=103|@ qty0=53|Minimum Quantity0=118|Packaging0=76|Supplier 10=75|Supplier 20=75|Supplier Part Number 20=142|HelpURL0=452|Supplier Part Number 10=147|Manufacturer Part Number0=160|Manufacturer0=107|Series0=53|Function0=69|Circuit0=97|On-State Resistance0=126|Voltage Supply Source0=139|Voltage - Supply, Single/Dual (±)0=191|Current - Supply0=107|Operating Temperature0=144|Mounting Type0=102|Package / Case0=218|Supplier Device Package0=147
 [FieldMap1]
 Options=FieldName=ASSEMBLIES$.PartNumber|TableNameOnly=ASSEMBLIES$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -297,214 +366,182 @@ Options=FieldName=DC_DC_SWITCHING_REGULATORS$.PartNumber|TableNameOnly=DC_DC_SWI
 [FieldMap69]
 Options=FieldName=DC_DC_SWITCHING_REGULATORS$.Description|TableNameOnly=DC_DC_SWITCHING_REGULATORS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap70]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.PartNumber|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=HOT_SWAP_IDEAL_DIODE$.PartNumber|TableNameOnly=HOT_SWAP_IDEAL_DIODE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap71]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Library Ref|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=HOT_SWAP_IDEAL_DIODE$.Library Ref|TableNameOnly=HOT_SWAP_IDEAL_DIODE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap72]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Footprint Ref|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=HOT_SWAP_IDEAL_DIODE$.Footprint Ref|TableNameOnly=HOT_SWAP_IDEAL_DIODE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Image|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+Options=FieldName=HOT_SWAP_IDEAL_DIODE$.Description|TableNameOnly=HOT_SWAP_IDEAL_DIODE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Description|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap75]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Quantity Available|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap76]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Factory Stock|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap77]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Unit Price (USD)|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap78]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.@ qty|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap79]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Minimum Quantity|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap80]
-Options=FieldName=HOT_SWAP_CONTROLLERS$.Packaging|TableNameOnly=HOT_SWAP_CONTROLLERS$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap81]
 Options=FieldName=INST_AND_OP_AMPS$.Library Ref|TableNameOnly=INST_AND_OP_AMPS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap82]
+[FieldMap75]
 Options=FieldName=INST_AND_OP_AMPS$.Footprint Ref|TableNameOnly=INST_AND_OP_AMPS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap83]
+[FieldMap76]
 Options=FieldName=INST_AND_OP_AMPS$.Description|TableNameOnly=INST_AND_OP_AMPS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap84]
+[FieldMap77]
 Options=FieldName=INST_AND_OP_AMPS$.PartNumber|TableNameOnly=INST_AND_OP_AMPS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap85]
+[FieldMap78]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Library Ref|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap86]
+[FieldMap79]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Footprint Ref|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap87]
+[FieldMap80]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Description|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap88]
+[FieldMap81]
 Options=FieldName=INST_AND_OP_AMPS_TH$.PartNumber|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap89]
+[FieldMap82]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Image|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap90]
+[FieldMap83]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Quantity Available|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap91]
+[FieldMap84]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Factory Stock|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap92]
+[FieldMap85]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Unit Price (USD)|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap93]
+[FieldMap86]
 Options=FieldName=INST_AND_OP_AMPS_TH$.@ qty|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap94]
+[FieldMap87]
 Options=FieldName=INST_AND_OP_AMPS_TH$.Minimum Quantity|TableNameOnly=INST_AND_OP_AMPS_TH$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap95]
+[FieldMap88]
 Options=FieldName=INTERFACE$.PartNumber|TableNameOnly=INTERFACE$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap96]
+[FieldMap89]
 Options=FieldName=INTERFACE$.Library Ref|TableNameOnly=INTERFACE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap97]
+[FieldMap90]
 Options=FieldName=INTERFACE$.Footprint Ref|TableNameOnly=INTERFACE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap98]
+[FieldMap91]
 Options=FieldName=INTERFACE$.Description|TableNameOnly=INTERFACE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap99]
+[FieldMap92]
 Options=FieldName=LED_DRIVERS$.PartNumber|TableNameOnly=LED_DRIVERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap100]
+[FieldMap93]
 Options=FieldName=LED_DRIVERS$.Library Ref|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap101]
+[FieldMap94]
 Options=FieldName=LED_DRIVERS$.Footprint Ref|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap102]
-Options=FieldName=LED_DRIVERS$.Image|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=1
-[FieldMap103]
+[FieldMap95]
 Options=FieldName=LED_DRIVERS$.Description|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap104]
-Options=FieldName=LED_DRIVERS$.Quantity Available|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap105]
-Options=FieldName=LED_DRIVERS$.Factory Stock|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap106]
-Options=FieldName=LED_DRIVERS$.Unit Price (USD)|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap107]
-Options=FieldName=LED_DRIVERS$.@ qty|TableNameOnly=LED_DRIVERS$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap108]
-Options=FieldName=LED_DRIVERS$.Minimum Quantity|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap109]
-Options=FieldName=LED_DRIVERS$.Packaging|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap110]
-Options=FieldName=LED_DRIVERS$.Dimming|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Dimming|FieldType=1|ParameterName=Dimming|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap111]
-Options=FieldName=LED_DRIVERS$.Applications|TableNameOnly=LED_DRIVERS$|FieldNameOnly=Applications|FieldType=1|ParameterName=Applications|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap112]
+[FieldMap96]
 Options=FieldName=LINEAR_AUDIO_AMPS$.PartNumber|TableNameOnly=LINEAR_AUDIO_AMPS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap113]
+[FieldMap97]
 Options=FieldName=LINEAR_AUDIO_AMPS$.Library Ref|TableNameOnly=LINEAR_AUDIO_AMPS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap114]
+[FieldMap98]
 Options=FieldName=LINEAR_AUDIO_AMPS$.Footprint Ref|TableNameOnly=LINEAR_AUDIO_AMPS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap115]
+[FieldMap99]
 Options=FieldName=LINEAR_AUDIO_AMPS$.Description|TableNameOnly=LINEAR_AUDIO_AMPS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap116]
+[FieldMap100]
 Options=FieldName=LINEAR_REGULATORS$.PartNumber|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap117]
+[FieldMap101]
 Options=FieldName=LINEAR_REGULATORS$.Library Ref|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap118]
+[FieldMap102]
 Options=FieldName=LINEAR_REGULATORS$.Footprint Ref|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap119]
+[FieldMap103]
 Options=FieldName=LINEAR_REGULATORS$.Image|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap120]
+[FieldMap104]
 Options=FieldName=LINEAR_REGULATORS$.Description|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap121]
+[FieldMap105]
 Options=FieldName=LINEAR_REGULATORS$.Quantity Available|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap122]
+[FieldMap106]
 Options=FieldName=LINEAR_REGULATORS$.Factory Stock|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap123]
+[FieldMap107]
 Options=FieldName=LINEAR_REGULATORS$.Unit Price (USD)|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap124]
+[FieldMap108]
 Options=FieldName=LINEAR_REGULATORS$.@ qty|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap125]
+[FieldMap109]
 Options=FieldName=LINEAR_REGULATORS$.Minimum Quantity|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=1
-[FieldMap126]
+[FieldMap110]
 Options=FieldName=LINEAR_REGULATORS$.Packaging|TableNameOnly=LINEAR_REGULATORS$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap127]
+[FieldMap111]
 Options=FieldName=LOGIC$.Library Ref|TableNameOnly=LOGIC$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap128]
+[FieldMap112]
 Options=FieldName=LOGIC$.Footprint Ref|TableNameOnly=LOGIC$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap129]
-Options=FieldName=LOGIC$.Manufacturer Part Number|TableNameOnly=LOGIC$|FieldNameOnly=Manufacturer Part Number|FieldType=0|ParameterName=Manufacturer Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap130]
+[FieldMap113]
 Options=FieldName=LOGIC$.Description|TableNameOnly=LOGIC$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap131]
+[FieldMap114]
+Options=FieldName=LOGIC$.PartNumber|TableNameOnly=LOGIC$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.PartNumber|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap132]
+[FieldMap116]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Library Ref|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap133]
+[FieldMap117]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Footprint Ref|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap134]
+[FieldMap118]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Image|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap135]
+[FieldMap119]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Description|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap136]
+[FieldMap120]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Quantity Available|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap137]
+[FieldMap121]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Factory Stock|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap138]
+[FieldMap122]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Unit Price (USD)|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap139]
+[FieldMap123]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.@ qty|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap140]
+[FieldMap124]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Minimum Quantity|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap141]
+[FieldMap125]
 Options=FieldName=LOGIC_BUFF_DRIVE_ETC$.Packaging|TableNameOnly=LOGIC_BUFF_DRIVE_ETC$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap142]
+[FieldMap126]
 Options=FieldName=LOGIC_FLIP_FLOPS$.PartNumber|TableNameOnly=LOGIC_FLIP_FLOPS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap143]
+[FieldMap127]
 Options=FieldName=LOGIC_FLIP_FLOPS$.Library Ref|TableNameOnly=LOGIC_FLIP_FLOPS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap144]
+[FieldMap128]
 Options=FieldName=LOGIC_FLIP_FLOPS$.Footprint Ref|TableNameOnly=LOGIC_FLIP_FLOPS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap145]
+[FieldMap129]
 Options=FieldName=LOGIC_FLIP_FLOPS$.Description|TableNameOnly=LOGIC_FLIP_FLOPS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap146]
+[FieldMap130]
 Options=FieldName=LOGIC_TH$.Library Ref|TableNameOnly=LOGIC_TH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap147]
+[FieldMap131]
 Options=FieldName=LOGIC_TH$.Footprint Ref|TableNameOnly=LOGIC_TH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap148]
+[FieldMap132]
 Options=FieldName=LOGIC_TH$.Description|TableNameOnly=LOGIC_TH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap149]
-Options=FieldName=LOGIC_TH$.HelpURL|TableNameOnly=LOGIC_TH$|FieldNameOnly=HelpURL|FieldType=0|ParameterName=HelpURL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap150]
+[FieldMap133]
+Options=FieldName=LOGIC_TH$.PartNumber|TableNameOnly=LOGIC_TH$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
 Options=FieldName=LOGIC_TRANSLATORS_LEVEL_SHIFTER$.PartNumber|TableNameOnly=LOGIC_TRANSLATORS_LEVEL_SHIFTER$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap151]
+[FieldMap135]
 Options=FieldName=LOGIC_TRANSLATORS_LEVEL_SHIFTER$.Library Ref|TableNameOnly=LOGIC_TRANSLATORS_LEVEL_SHIFTER$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap152]
+[FieldMap136]
 Options=FieldName=LOGIC_TRANSLATORS_LEVEL_SHIFTER$.Footprint Ref|TableNameOnly=LOGIC_TRANSLATORS_LEVEL_SHIFTER$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap153]
+[FieldMap137]
 Options=FieldName=LOGIC_TRANSLATORS_LEVEL_SHIFTER$.Description|TableNameOnly=LOGIC_TRANSLATORS_LEVEL_SHIFTER$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap154]
+[FieldMap138]
 Options=FieldName=MICROCONTROLLERS$.PartNumber|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap155]
+[FieldMap139]
 Options=FieldName=MICROCONTROLLERS$.Library Ref|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap156]
+[FieldMap140]
 Options=FieldName=MICROCONTROLLERS$.Footprint Ref|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap157]
+[FieldMap141]
 Options=FieldName=MICROCONTROLLERS$.Image|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap158]
+[FieldMap142]
 Options=FieldName=MICROCONTROLLERS$.Description|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap159]
+[FieldMap143]
 Options=FieldName=MICROCONTROLLERS$.Quantity Available|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap160]
+[FieldMap144]
 Options=FieldName=MICROCONTROLLERS$.Factory Stock|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap161]
+[FieldMap145]
 Options=FieldName=MICROCONTROLLERS$.Unit Price (USD)|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=1
-[FieldMap162]
+[FieldMap146]
 Options=FieldName=MICROCONTROLLERS$.@ qty|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap163]
+[FieldMap147]
 Options=FieldName=MICROCONTROLLERS$.Minimum Quantity|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap164]
+[FieldMap148]
 Options=FieldName=MICROCONTROLLERS$.Packaging|TableNameOnly=MICROCONTROLLERS$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap165]
+[FieldMap149]
 Options=FieldName=SWITCHES_MUX_DEMUX$.PartNumber|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap166]
+[FieldMap150]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Library Ref|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap167]
+[FieldMap151]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Footprint Ref|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap168]
+[FieldMap152]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Image|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Image|FieldType=1|ParameterName=Image|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap169]
+[FieldMap153]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Description|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap170]
+[FieldMap154]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Quantity Available|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Quantity Available|FieldType=1|ParameterName=Quantity Available|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap171]
+[FieldMap155]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Factory Stock|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Factory Stock|FieldType=1|ParameterName=Factory Stock|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap172]
+[FieldMap156]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Unit Price (USD)|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Unit Price (USD)|FieldType=1|ParameterName=Unit Price (USD)|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap173]
+[FieldMap157]
 Options=FieldName=SWITCHES_MUX_DEMUX$.@ qty|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=@ qty|FieldType=1|ParameterName=@ qty|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap174]
+[FieldMap158]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Minimum Quantity|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Minimum Quantity|FieldType=1|ParameterName=Minimum Quantity|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
-[FieldMap175]
+[FieldMap159]
 Options=FieldName=SWITCHES_MUX_DEMUX$.Packaging|TableNameOnly=SWITCHES_MUX_DEMUX$|FieldNameOnly=Packaging|FieldType=1|ParameterName=Packaging|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
